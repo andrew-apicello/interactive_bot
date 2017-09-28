@@ -1,0 +1,25 @@
+{
+  "name": "interactive_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrew-apicello/interactive_bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrew-apicello/interactive_bot/issues"
+  },
+  "homepage": "https://github.com/andrew-apicello/interactive_bot#readme",
+  "dependencies": {
+    "aws4": "^1.6.0",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.83.0",
+    "twitter": "^1.7.1"
+  }
+}
